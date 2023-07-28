@@ -1,11 +1,11 @@
-### A peak at my Crunchy Insides‹:
+## A peak at my Crunchy Insides ‹:
 "We're all made of the same cosmic dust" 
-— *The Olkari*
+- *The Olkari*
 - 🌱 sleeping with mushrooms.. 🍄
 - 🌈 queer af *⁰˚(ꈍ ω ꈍ).₊̣̇.
 
               
-#### ° .  **HаppУ Тrave1s!**     ₀  *
+### ° .  **HаppУ Тrave1s!**     ₀  *
 
 <!---
 ratwitxch/ratwitxch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
