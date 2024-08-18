@@ -1,8 +1,7 @@
 ## A peak at my Crunchy Insides ‹:
-"We're all made of the same cosmic dust" 
-— *The Olkari*
+"Live this life like there's no other" 
 - 🌱 sleeping with moss, music & mushrooms.. 🍄
-- 🌈 queer af *⁰˚(ꈍ ω ꈍ).₊̣̇.
+- fruity af *⁰˚(ꈍ ω ꈍ).₊̣̇.
 
               
 ### ° .  **HаppУ Тrave1s stranger!**     ₀  *
