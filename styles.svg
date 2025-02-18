@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+
+
+                * {font-family: "Fira Mono", monospace;
+                    margin : 10px;
+                    box-sizing:border-box;
+
+                }
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+
+            }
+
+            @keyframes mymove {
+                from {
+                    color: green;
+                }
+                to {
+                    color: darkgrey;
+                }
+            }
+            </style>
+            <h1>° . HаppУ Тrave1s stranger! ₀ *</h1>
+
+        </div>
+    </foreignObject>
+</svg>

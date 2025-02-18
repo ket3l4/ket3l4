@@ -1,10 +1,8 @@
-## A peak at my Crunchy Insides ‹:
-"Live this life like there's no other" 
-- 🌱 sleeping with moss, music & mushrooms.. 🍄
-- fruity af *⁰˚(ꈍ ω ꈍ).₊̣̇.
+     
 
-              
-### ° .  **HаppУ Тrave1s stranger!**     ₀  *
+<h1 >° . HeLLo fellow stranger! ₀ *</h1>
+<h3 align="center"><img src = "img/bee.gif" width = 30px> I'm Bee</h3>
+
 
 <!---
 ratwitxch/ratwitxch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
